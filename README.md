@@ -1,20 +1,22 @@
-﻿# [VR display](https://github.com/qful/VR) 
-[![sites](qful/qful.png)](http://www.qful.net)
+﻿# [mini-PCI-express](https://github.com/Qful/mPCIE) 
+[![sites](Qful/qitas.png)](http://www.Qful.net)
 ####  qitas@qitas.cn
-## [简介](https://github.com/qful/VR) 
+## [简介](https://github.com/Qful/mPCIE) 
 
-新一代个人数字终端的显示装置，用于大屏全景显示和交互
+mini-PCI-express接口设备相关资源，用于扩展存储、通信、加速计算等
 
-### [工程目录](https://github.com/qful)
+### [工程目录](https://github.com/Qful)
 
-- [文档](docs/)
-- [资源](src/)
-- [工程](project/)
+* [文档](docs/)
+* [资源](src/)
+* [工程](project/)
 
 
-### [Q资源依赖](https://github.com/qful)
+### [关联资源](https://github.com/Qful)
 
-- [Q软件](https://github.com/OS-Q)
-- [Q硬件](https://github.com/sochub)
-- [Q智慧](https://github.com/tfzoo)
-- [Q品质](https://github.com/qitas)
+* [Q智慧](https://github.com/tfzoo)
+* [Q效率](https://github.com/qitas)
+* [Q方案](https://github.com/OS-Q)
+* [Q载体](https://github.com/sochub)
+
+### www.Qful.net
