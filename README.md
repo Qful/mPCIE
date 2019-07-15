@@ -3,14 +3,13 @@
 ####  qitas@qitas.cn
 ## [简介](https://github.com/Qful/mPCIE) 
 
-mini-PCI-express接口设备相关资源，用于扩展存储、通信、加速计算等
+[mini-PCIe](https://github.com/Qful/mPCIE) 接口设备相关资源，用于扩展存储、通信、加速计算等
 
 ### [工程目录](https://github.com/Qful)
 
 * [文档](docs/)
-* [资源](src/)
-* [工程](project/)
-
+* [kicad硬件库](kicad/)
+* [驱动工程](project/)
 
 ### [关联资源](https://github.com/Qful)
 
